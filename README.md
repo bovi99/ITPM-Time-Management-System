@@ -46,7 +46,7 @@ Implementing the following functions.
 •	Implementing the features related to locations.
 •	Visualizing the statistics related to lecturers, students, subjects.
 # Sprint 2 – Section 4
-Implementing following functions.
+•	Implementing Session Rooms total no of lecturers and students
 
 
 
