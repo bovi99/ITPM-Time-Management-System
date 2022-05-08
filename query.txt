@@ -1,0 +1,16 @@
+create database salro_university;
+
+use salro_university;
+CREATE TABLE `group` (
+  `Group_id` int NOT NULL AUTO_INCREMENT,
+  `Academic_year_Semester` varchar(45) DEFAULT NULL,
+  `Student_ID` varchar(45) DEFAULT NULL,
+  `Programme` varchar(45) DEFAULT NULL,
+  `Group_Number` varchar(45) DEFAULT NULL,
+  `Sub_Group_Number` varchar(45) DEFAULT NULL,
+  `class_Group_id` varchar(45) DEFAULT NULL,
+  `Sub_Group_ID` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Group_id`)
+)
+
+SELECT * FROM salro_university.group;
