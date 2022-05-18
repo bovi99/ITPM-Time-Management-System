@@ -10,7 +10,7 @@ Group Leader- IT20196288-Subasinghe B.N.W
 # Description-    Many Universities use manual way of preparing timetables with large number of students is very time consuming. This usually ends up with various courses clashing this may be either at same room or with same teachers having more than one course at a time. 
                           These are just due to common human errors which are very difficult to prevent in the processes. To avoid these problems people usually taking the previous years’ timetable and modifying it but still it is a difficult job to do incorporate changes. To overcome all these problems we propose this system. This system will take various inputs like details of students, subjects and classrooms and teachers available, depending upon these input it will generate possible timetable, making the utilization of all of these resources in a way that will best suit any of constrains of university rules
  
- # Technologies used - MERN(Mongo DB,Express,React,Node js)
+ # Technologies used - MERN(My Sql,Tom cat,Eclipse)
                          
 # IT20196288-Subasinghe B.N.W
 # Sprint 1-Section 1
