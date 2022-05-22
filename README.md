@@ -48,6 +48,9 @@ Implementing the following functions.
 # Sprint 2 – Section 4
 •	Implementing Session Rooms total no of lecturers and students
 
+# Main Content
+Sign Up Page
+
 
 
 
