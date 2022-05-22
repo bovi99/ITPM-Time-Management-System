@@ -52,6 +52,7 @@ Implementing the following functions.
 Sign Up Page
 Sign In Page
 Home Page
+Search 
 
 
 
