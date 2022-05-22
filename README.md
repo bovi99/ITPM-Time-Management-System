@@ -51,6 +51,7 @@ Implementing the following functions.
 # Main Content
 Sign Up Page
 Sign In Page
+Home Page
 
 
 
